@@ -1,0 +1,12 @@
+pyttsx3==2.98
+SpeechRecognition==3.11.0
+pyaudio==0.2.14
+wikipedia==1.4.0
+python-dotenv==1.0.1
+requests==2.32.3
+google-genai==1.73.1
+psutil==6.1.1
+pyautogui==0.9.54
+pycaw==20240210
+comtypes==1.4.8
+pyperclip==1.9.0
